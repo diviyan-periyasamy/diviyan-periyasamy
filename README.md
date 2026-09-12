@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi I'm Diviyan
+# Hii I'm Diviyan  👋
+
 Welcome to my GitHub profile! I'm a BSc (Hons) Data Science undergraduate at NIBM, in collaboration with Coventry University. Passionate aspiring Machine Learning Engineer and Data Engineer. I work on various interesting projects involving Machine Learning, Data Science, AI, and Web Development. .<br>
 
 
