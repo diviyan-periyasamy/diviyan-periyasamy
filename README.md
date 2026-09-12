@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Science undergraduate with a strong foundation in statistics, machine learning, deep learning, time series analysis, and data engineering. Experienced in developing end-to-end data and AI solutions using Python, R, SQL, Power BI, PyTorch, TensorFlow, and YOLOv8. Hands-on experience building real-time AI systems, data pipelines, forecasting models, and MLOps workflows using MLflow, DVC, Docker, GitHub Actions, Apache Kafka, Airflow, and PySpark. Passionate about applying artificial intelligence and data-driven approaches to solve real-world problems, with a strong interest in AI research, machine learning engineering, and advanced data science.<br>
+Hi, Iam Diviyan, Data Science undergraduate with a strong foundation in statistics, machine learning, deep learning, time series analysis, and data engineering. Experienced in developing end-to-end data and AI solutions using Python, R, SQL, Power BI, PyTorch, TensorFlow, and YOLOv8. Hands-on experience building real-time AI systems, data pipelines, forecasting models, and MLOps workflows using MLflow, DVC, Docker, GitHub Actions, Apache Kafka, Airflow, and PySpark. Passionate about applying artificial intelligence and data-driven approaches to solve real-world problems, with a strong interest in AI research, machine learning engineering, and advanced data science .<br>
 
 
 ## 🌐 Socials:
